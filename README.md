@@ -1,11 +1,11 @@
 # Student Marks Calculator (Java)
 
-#**_Project Overview_**
+**_Project Overview_**
 
 This is a console-based Java program that calculates the total marks, percentage, and grade for a student. The program also validates input to ensure marks are within the range of 0–100, preventing invalid data from being processed.
 It demonstrates basic Java concepts like arrays, loops, conditional statements, and input validation.
 
-##**_Features_**
+**_Features_**
 
 - Accepts student name and marks for 5 subjects
 - Validates marks to ensure they are between 0 and 100
@@ -19,11 +19,11 @@ It demonstrates basic Java concepts like arrays, loops, conditional statements, 
      - F → below 40
 - Stops the program if invalid marks are entered
 
-##**_How to Run_**
+**_How to Run_**
 
 Clone the repository:
 
-##**_Sample Output_**
+**_Sample Output_**
 
 Enter your Full Name: Dishita
 Enter your 5 subject marks-->
@@ -46,20 +46,20 @@ If an invalid mark is entered:
 **Error: Invalid marks entered**
 The program stops immediately.
 
-##**_Technologies Used_**
+**_Technologies Used_**
 
 - Java SE 8+
 - Console-based application
 - Arrays, loops, and conditional statements
 
-##**_Future Enhancements_**
+**_Future Enhancements_**
 
 - Allow any number of subjects using dynamic arrays
 - Add Pass/Fail message
 - Allow re-entry of invalid marks instead of stopping the program
 - Add GUI interface for better user interaction
 
-##**_Author_**
+**_Author_**
 
 Dishita Goswami
 Student | BTech CSE, GLA University
