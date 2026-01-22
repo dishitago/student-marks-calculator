@@ -1,6 +1,6 @@
 # Student Marks Calculator (Java)
 
-##**_Project Overview_**
+#**_Project Overview_**
 
 This is a console-based Java program that calculates the total marks, percentage, and grade for a student. The program also validates input to ensure marks are within the range of 0–100, preventing invalid data from being processed.
 It demonstrates basic Java concepts like arrays, loops, conditional statements, and input validation.
